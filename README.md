@@ -31,7 +31,6 @@
 
 ### 🚀 Featured Projects
 
-📱 **StudentGig** — Student ↔ Business micro-gig platform
 🏥 **Mero Palo** — Hospital appointment & token system
 🎓 **Student Management System** — Student & attendance management
 📜 **Certificate Generator** — Automated certificate generation
@@ -47,7 +46,10 @@
 ### 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpitsthaa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arpitsthaa&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Arpit's GitHub Stats"
+  />
 </p>
 
 ---
