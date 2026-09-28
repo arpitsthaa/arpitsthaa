@@ -46,8 +46,16 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arpitsthaa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=arpitsthaa&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=arpitsthaa&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Arpit's GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=arpitsthaa&theme=tokyonight&hide_border=true"
+    alt="Arpit's GitHub Streak"
+  />
 </p>
 
 ---
