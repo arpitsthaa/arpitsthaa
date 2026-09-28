@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arpit Shrestha!
 
-### 💻 Software Engineering Student | 📱 Flutter Developer | ⚙️ .NET Learner
+### 💻 Software Engineering Student 
 
 > 🚀 Learning, building, breaking & rebuilding.
 
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 🎓 Software Engineering Student
-📱 Currently learning **Flutter**
+📱 Currently learning **Flutter & .NET**
 ⚙️ Exploring **C# & .NET**
 🌐 Interested in **Full-Stack Development**
 💡 Building projects to turn ideas into reality
@@ -19,13 +19,13 @@
 ### 🛠️ Tech Stack
 
 **Languages:**
-`Dart` `C#` `Python` `Java` `JavaScript`
+`Html & CSS` `Python` `Java` `JavaScript` `Dart` `C#`
 
 **Frameworks:**
 `Flutter` `.NET` `Django` `React`
 
 **Tools:**
-`Git` `GitHub` `VS Code` `Android Studio`
+`Git` `GitHub` `VS Code` `Android Studio` 
 
 ---
 
