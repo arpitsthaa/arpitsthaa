@@ -31,9 +31,9 @@
 
 ### 🚀 Featured Projects
 
-🏥 **Mero Palo** — Hospital appointment & token system
-🎓 **Student Management System** — Student & attendance management
-📜 **Certificate Generator** — Automated certificate generation
+🏥 **Mero Palo** — Hospital appointment & token system **
+🎓 **Student Management System** — Student & attendance management **
+📜 **Certificate Generator** — Automated certificate generation **
 
 ---
 
